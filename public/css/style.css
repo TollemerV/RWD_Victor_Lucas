@@ -13,8 +13,8 @@ header{
     background-size: cover;
     height: 100vh;
 
-    /* Widht a changer en desktop */
-    width: 100vw;
+    /* % | VW à éviter  */
+    width: 100%;
 }
 h1{
     font-family:Arial, Helvetica, sans-serif;
